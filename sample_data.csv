@@ -1,0 +1,201 @@
+expense_id,date,category,description,amount,payment_method
+1,2026-05-21,Food,Lunch,13.39,Debit Card
+2,2026-10-07,Food,Coffee,3.61,Other
+3,2026-02-17,Food,Lunch,12.81,Credit Card
+4,2026-11-29,Entertainment,Video game,55.07,Other
+5,2026-10-29,Entertainment,Concert,63.38,Credit Card
+6,2026-08-05,Entertainment,Video game,37.01,Debit Card
+7,2026-02-22,Entertainment,Concert,41.13,Credit Card
+8,2026-11-06,Groceries,Household supplies,28.52,Credit Card
+9,2026-03-05,Transportation,Rideshare,48.87,Other
+10,2026-05-31,Food,Coffee,8.81,Cash
+11,2026-02-05,Entertainment,Video game,22.29,Debit Card
+12,2026-04-30,Groceries,Weekly groceries,133.98,Other
+13,2026-11-22,Groceries,Household supplies,68.39,Debit Card
+14,2026-04-18,Groceries,Household supplies,56.91,Credit Card
+15,2026-05-06,Entertainment,Video game,28.17,Other
+16,2026-12-17,Groceries,Weekly groceries,68.91,Credit Card
+17,2026-06-11,Entertainment,Movies,19.22,Credit Card
+18,2026-06-11,Entertainment,Video game,30.63,Other
+19,2026-08-23,Transportation,Rideshare,14.0,Debit Card
+20,2026-10-15,Entertainment,Video game,46.95,Other
+21,2026-04-23,Transportation,Bus fare,14.97,Debit Card
+22,2026-01-25,Transportation,Gas,72.36,Debit Card
+23,2026-08-05,Entertainment,Video game,49.82,Other
+24,2026-08-28,Transportation,Rideshare,30.22,Credit Card
+25,2026-10-02,Food,Coffee,8.26,Cash
+26,2026-08-11,Food,Dinner,22.12,Credit Card
+27,2026-09-17,Groceries,Weekly groceries,139.52,Cash
+28,2026-07-11,Entertainment,Movies,25.73,Credit Card
+29,2026-01-10,Groceries,Household supplies,17.83,Cash
+30,2026-01-30,Groceries,Weekly groceries,58.9,Credit Card
+31,2026-09-06,Food,Coffee,8.71,Debit Card
+32,2026-09-01,Entertainment,Video game,67.34,Debit Card
+33,2026-04-19,Groceries,Household supplies,75.02,Debit Card
+34,2026-12-10,Groceries,Household supplies,55.49,Other
+35,2026-05-07,Transportation,Gas,37.36,Cash
+36,2026-10-11,Food,Coffee,4.61,Debit Card
+37,2026-12-29,Food,Lunch,21.88,Debit Card
+38,2026-06-19,Food,Lunch,9.56,Debit Card
+39,2026-04-20,Groceries,Household supplies,47.75,Other
+40,2026-07-28,Entertainment,Concert,52.85,Credit Card
+41,2026-08-05,Transportation,Bus fare,7.34,Credit Card
+42,2026-07-26,Food,Lunch,24.02,Credit Card
+43,2026-04-08,Entertainment,Movies,21.65,Debit Card
+44,2026-05-23,Transportation,Gas,50.44,Credit Card
+45,2026-02-20,Transportation,Rideshare,10.12,Credit Card
+46,2026-03-27,Food,Lunch,16.94,Other
+47,2026-01-31,Entertainment,Concert,49.76,Credit Card
+48,2026-08-21,Transportation,Bus fare,5.71,Other
+49,2026-06-01,Entertainment,Movies,15.92,Credit Card
+50,2026-06-10,Food,Coffee,3.4,Other
+51,2026-09-18,Entertainment,Movies,13.44,Debit Card
+52,2026-02-04,Food,Coffee,7.73,Debit Card
+53,2026-10-19,Transportation,Gas,38.54,Credit Card
+54,2026-12-03,Food,Dinner,41.27,Cash
+55,2026-12-09,Groceries,Weekly groceries,115.94,Debit Card
+56,2026-03-09,Groceries,Household supplies,57.02,Cash
+57,2026-02-07,Transportation,Bus fare,2.12,Credit Card
+58,2026-04-20,Food,Coffee,6.54,Debit Card
+59,2026-05-06,Groceries,Weekly groceries,74.34,Debit Card
+60,2026-12-27,Transportation,Rideshare,20.71,Credit Card
+61,2026-03-10,Groceries,Weekly groceries,61.74,Credit Card
+62,2026-05-25,Entertainment,Concert,102.58,Cash
+63,2026-11-21,Entertainment,Video game,62.65,Other
+64,2026-02-17,Groceries,Weekly groceries,106.11,Cash
+65,2026-06-20,Food,Lunch,24.96,Cash
+66,2026-08-15,Entertainment,Video game,47.58,Other
+67,2026-02-08,Food,Lunch,28.79,Debit Card
+68,2026-10-26,Food,Dinner,39.86,Other
+69,2026-06-07,Entertainment,Movies,18.56,Credit Card
+70,2026-12-16,Groceries,Weekly groceries,59.94,Credit Card
+71,2026-11-14,Groceries,Household supplies,62.46,Debit Card
+72,2026-07-31,Entertainment,Movies,12.45,Cash
+73,2026-05-08,Transportation,Rideshare,19.21,Credit Card
+74,2026-08-29,Transportation,Gas,37.23,Other
+75,2026-04-27,Groceries,Household supplies,25.6,Debit Card
+76,2026-05-23,Transportation,Bus fare,13.24,Cash
+77,2026-12-14,Groceries,Household supplies,78.68,Cash
+78,2026-05-14,Food,Lunch,11.93,Cash
+79,2026-11-02,Food,Lunch,17.56,Cash
+80,2026-09-19,Transportation,Rideshare,12.86,Debit Card
+81,2026-12-29,Groceries,Weekly groceries,82.33,Debit Card
+82,2026-02-05,Groceries,Household supplies,76.42,Cash
+83,2026-06-03,Groceries,Weekly groceries,90.85,Other
+84,2026-12-23,Groceries,Household supplies,30.7,Debit Card
+85,2026-12-07,Entertainment,Concert,142.84,Debit Card
+86,2026-10-08,Groceries,Household supplies,68.36,Cash
+87,2026-08-09,Groceries,Weekly groceries,124.29,Cash
+88,2026-08-15,Transportation,Bus fare,10.78,Other
+89,2026-02-13,Entertainment,Video game,34.19,Cash
+90,2026-12-11,Food,Lunch,14.83,Debit Card
+91,2026-01-24,Entertainment,Movies,16.41,Other
+92,2026-08-01,Food,Dinner,54.88,Debit Card
+93,2026-07-24,Transportation,Bus fare,5.17,Credit Card
+94,2026-04-23,Food,Dinner,22.91,Other
+95,2026-05-08,Food,Coffee,9.42,Credit Card
+96,2026-08-26,Transportation,Gas,61.72,Cash
+97,2026-09-16,Transportation,Rideshare,25.92,Other
+98,2026-09-01,Entertainment,Video game,42.5,Debit Card
+99,2026-11-17,Groceries,Household supplies,26.75,Other
+100,2026-05-27,Food,Coffee,4.64,Cash
+101,2026-03-12,Groceries,Weekly groceries,48.1,Other
+102,2026-04-20,Entertainment,Video game,23.21,Other
+103,2026-08-01,Groceries,Household supplies,14.36,Other
+104,2026-12-23,Transportation,Rideshare,8.82,Other
+105,2026-06-30,Transportation,Gas,41.42,Other
+106,2026-10-07,Transportation,Rideshare,41.59,Debit Card
+107,2026-05-20,Transportation,Gas,48.97,Credit Card
+108,2026-12-09,Transportation,Bus fare,10.83,Other
+109,2026-03-07,Entertainment,Concert,147.69,Credit Card
+110,2026-10-16,Transportation,Rideshare,35.85,Credit Card
+111,2026-08-25,Transportation,Gas,35.0,Cash
+112,2026-04-19,Transportation,Bus fare,7.91,Cash
+113,2026-08-04,Transportation,Bus fare,5.28,Credit Card
+114,2026-10-04,Transportation,Gas,27.86,Cash
+115,2026-02-05,Entertainment,Video game,59.06,Credit Card
+116,2026-04-13,Food,Lunch,26.46,Debit Card
+117,2026-08-31,Entertainment,Movies,24.05,Debit Card
+118,2026-05-12,Transportation,Rideshare,40.21,Debit Card
+119,2026-06-09,Food,Lunch,10.38,Credit Card
+120,2026-07-23,Groceries,Household supplies,75.9,Debit Card
+121,2026-12-20,Food,Coffee,8.81,Debit Card
+122,2026-06-04,Food,Coffee,8.95,Credit Card
+123,2026-09-30,Food,Dinner,34.28,Cash
+124,2026-11-28,Food,Coffee,5.39,Other
+125,2026-08-10,Transportation,Gas,77.84,Other
+126,2026-04-01,Entertainment,Concert,118.06,Cash
+127,2026-08-12,Transportation,Bus fare,12.73,Cash
+128,2026-02-14,Groceries,Weekly groceries,63.47,Other
+129,2026-10-19,Entertainment,Concert,103.24,Other
+130,2026-09-11,Groceries,Weekly groceries,132.11,Debit Card
+131,2026-07-01,Transportation,Gas,68.88,Cash
+132,2026-10-12,Groceries,Household supplies,10.71,Debit Card
+133,2026-07-28,Food,Lunch,18.75,Debit Card
+134,2026-12-31,Transportation,Rideshare,28.61,Credit Card
+135,2026-04-24,Food,Dinner,33.2,Debit Card
+136,2026-08-31,Groceries,Household supplies,48.74,Cash
+137,2026-10-09,Transportation,Rideshare,21.89,Other
+138,2026-05-09,Groceries,Household supplies,26.14,Debit Card
+139,2026-10-02,Groceries,Weekly groceries,144.11,Debit Card
+140,2026-09-05,Entertainment,Movies,16.98,Cash
+141,2026-06-01,Food,Lunch,13.0,Debit Card
+142,2026-12-29,Groceries,Weekly groceries,94.1,Cash
+143,2026-10-11,Food,Lunch,14.43,Debit Card
+144,2026-01-07,Transportation,Gas,56.57,Other
+145,2026-06-24,Transportation,Bus fare,4.4,Credit Card
+146,2026-02-28,Groceries,Household supplies,67.55,Other
+147,2026-10-23,Transportation,Gas,59.62,Credit Card
+148,2026-10-16,Entertainment,Movies,29.08,Credit Card
+149,2026-10-13,Entertainment,Movies,25.76,Debit Card
+150,2026-08-15,Transportation,Bus fare,5.87,Other
+151,2026-11-09,Groceries,Weekly groceries,145.21,Credit Card
+152,2026-04-19,Entertainment,Video game,33.23,Credit Card
+153,2026-03-30,Entertainment,Movies,21.94,Debit Card
+154,2026-08-19,Food,Dinner,46.02,Other
+155,2026-04-29,Groceries,Weekly groceries,64.57,Cash
+156,2026-12-18,Transportation,Gas,37.84,Cash
+157,2026-02-28,Entertainment,Concert,95.35,Debit Card
+158,2026-02-06,Groceries,Weekly groceries,37.16,Cash
+159,2026-03-05,Groceries,Household supplies,42.81,Cash
+160,2026-09-14,Transportation,Bus fare,9.02,Other
+161,2026-01-21,Food,Coffee,9.23,Cash
+162,2026-02-16,Groceries,Weekly groceries,57.47,Credit Card
+163,2026-03-31,Groceries,Weekly groceries,86.46,Other
+164,2026-10-27,Groceries,Weekly groceries,82.31,Other
+165,2026-06-28,Food,Dinner,33.38,Cash
+166,2026-06-18,Food,Lunch,17.06,Other
+167,2026-10-09,Groceries,Household supplies,12.57,Credit Card
+168,2026-06-15,Groceries,Household supplies,18.11,Other
+169,2026-10-05,Food,Coffee,6.23,Credit Card
+170,2026-07-05,Entertainment,Video game,51.13,Other
+171,2026-04-15,Transportation,Gas,39.69,Debit Card
+172,2026-12-24,Groceries,Household supplies,43.93,Credit Card
+173,2026-03-23,Entertainment,Video game,35.54,Credit Card
+174,2026-04-26,Transportation,Gas,79.57,Credit Card
+175,2026-11-28,Transportation,Gas,70.77,Other
+176,2026-08-01,Groceries,Household supplies,68.43,Other
+177,2026-10-10,Entertainment,Concert,47.36,Debit Card
+178,2026-05-22,Entertainment,Movies,25.91,Other
+179,2026-01-02,Groceries,Household supplies,29.8,Cash
+180,2026-08-17,Transportation,Gas,54.62,Cash
+181,2026-08-22,Groceries,Household supplies,75.3,Debit Card
+182,2026-07-16,Entertainment,Video game,31.68,Other
+183,2026-08-31,Food,Dinner,46.74,Other
+184,2026-11-30,Transportation,Rideshare,49.19,Other
+185,2026-09-15,Food,Lunch,29.24,Cash
+186,2026-02-21,Food,Dinner,38.67,Other
+187,2026-03-15,Food,Coffee,5.87,Debit Card
+188,2026-05-16,Food,Dinner,30.24,Other
+189,2026-12-12,Food,Dinner,53.67,Other
+190,2026-10-05,Groceries,Household supplies,12.51,Credit Card
+191,2026-12-17,Entertainment,Video game,66.05,Debit Card
+192,2026-02-20,Food,Dinner,49.22,Credit Card
+193,2026-12-22,Transportation,Gas,41.47,Credit Card
+194,2026-01-29,Food,Dinner,28.2,Cash
+195,2026-05-06,Transportation,Gas,54.21,Debit Card
+196,2026-02-10,Entertainment,Movies,22.97,Other
+197,2026-10-26,Entertainment,Concert,47.17,Other
+198,2026-05-11,Groceries,Household supplies,56.68,Other
+199,2026-02-07,Groceries,Weekly groceries,83.01,Cash
+200,2026-12-20,Groceries,Household supplies,27.51,Cash
